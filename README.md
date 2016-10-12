@@ -13,6 +13,8 @@
         <li>Yellow</li>
         <li>Green</li>
         <li>Blue</li>
-        </ul></p>
+        </ul>
+        </p>
+        <blockquote>"A web designer knows how to make a website look nice"</blockquote>
     </body>
 </html>
