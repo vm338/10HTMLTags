@@ -6,6 +6,6 @@
     </head>
     <body>
         <h1>10 HTML Tags</h1>
-        <p><i>You can also add new paragraphs</i></p>
+        <p><i><b>You can also add new paragraphs</b></i></p>
     </body>
 </html>
