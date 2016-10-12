@@ -17,5 +17,6 @@
         </p>
         <blockquote>"A web designer knows how to make a website look nice"</blockquote>
         <hr />
+        <img src = "boilerplate.png" />
     </body>
 </html>
