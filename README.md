@@ -16,5 +16,6 @@
         </ul>
         </p>
         <blockquote>"A web designer knows how to make a website look nice"</blockquote>
+        <hr />
     </body>
 </html>
